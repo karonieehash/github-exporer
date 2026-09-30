@@ -254,9 +254,9 @@ form.addEventListener("submit", (event) => {
 });
 
 window.addEventListener("DOMContentLoaded", () => {
-  input.value = "sagar-kumar3099";
+  input.value = "karonieehash";
 
-  search("sagar-kumar3099");
+  search("karonieehash");
 });
 
 
