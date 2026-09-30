@@ -254,9 +254,9 @@ form.addEventListener("submit", (event) => {
 });
 
 window.addEventListener("DOMContentLoaded", () => {
-  input.value = "karonieehash";
+  input.value = "";
 
-  search("karonieehash");
+  search("");
 });
 
 
